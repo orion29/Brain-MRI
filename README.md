@@ -67,6 +67,6 @@ Validation Set Dice score : 86%
 ## Predictions
  
 
-<img src="https://www.kaggleusercontent.com/kf/45471353/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..M98Q2u6MUJTnAiS_u9Tbug.vb2T7UMmEs-FzF97jSsdiuzdIib9E1zC8jIGEMQQKa0zUPj9ITECFUBzMyMa_XsPZUEcZLMIfbSLJRpaBbsXrrdqr9u7zxtq-rIRIfks5-15s7Rssba2oLAtJ7ZhpMHn7RA63V2K4clKxQzHixNQWUCVK7eTH5bnrXW59x0uJa7M1Pg6x1T8gIQ0pZha63Esvl9CRInoOXbhvuIfZo-nhWvK74GnzqV-pCy8BebAZxnPjd40yznrfWVWKYD07H_pCQGZO1JojL9SnPLeCdGOJsSX4w4vVfTilxe4KlGqUGeVFN1Y_zX72f4JstBlgbEvhOPI3ggLpPFO4pYUHGxbBw7cK2qZ7UUojE5bJTPc7LZz8Fpgs2N5HR5ydjpYuZ-DXPVbSFWBS4aCMdj9YHM7qnig-WOS7ZJYGXo-5xiqnso-33db-6keSrVgw9Sy6-ri_CHajcjG-PqAJHu3B_j5fyi1KhyuU5GCf8sZJHNzFgqAFpKq-Umv-X1rRaj9bAQw8sSR146ojEdL_vO_axXOyqveQjllCKErzkiC4hZ2xfZh7YPKqKq5I69pPOXLPEo_zU7lUbZsjXyEx5T7kbfiEnMNukl8uRphh4AYLYO1FnezYvkNvfRGEI9T7zfOUZHC.zPRnV0NHmf9ZByDCTguV0Q/__results___files/__results___35_1.png"/>
+<img src="https://github.com/orion29/Brain-MRI/blob/main/Images/Unknown.png"/>
           
 
